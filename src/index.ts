@@ -6,3 +6,5 @@ document.getElementById("app").innerHTML = `
   for more info about Parcel.
 </div>
 `;
+
+console.log("Hello world!");
